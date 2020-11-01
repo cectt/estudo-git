@@ -23,10 +23,10 @@ programa
 		escreva (nome + " a sua média final é " + media)
 
 		se (media >=7){
-			escreva("\n" + "Você foi aprovado!")
+			escreva("\n" + "Você foi aprovado")
 		}	
 		senao{
-			escreva("\n" + "Você foi reprovado!")
+			escreva("\n" + "Você foi reprovado")
 		}
 		
 	}
@@ -36,7 +36,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 616; 
+ * @POSICAO-CURSOR = 669; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
